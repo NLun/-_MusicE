@@ -5,7 +5,7 @@
 提供的功能：導入任一混合音樂，從「鋼琴」、「歌聲」、「鼓組」當中選擇輸出的樂器，系統將分離並轉錄出所選樂器之MIDI檔，供下載。
 
 目前尚無法提供打包檔，請依照下方需求，事先下載所需函式庫：
-  1.Spleeter
-  2.Omnizart
-  3.PyQt5
-  4.pygame
+  \n1.Spleeter
+  \n2.Omnizart
+  \n3.PyQt5
+  \n4.pygame
